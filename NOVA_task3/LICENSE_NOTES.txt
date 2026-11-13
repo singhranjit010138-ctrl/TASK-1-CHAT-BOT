@@ -1,0 +1,10 @@
+NOVA AI project source code is provided for educational use.
+
+Third-party components retain their own licenses:
+- Salesforce/blip-image-captioning-large: see the Hugging Face model card.
+- PyTorch: see https://github.com/pytorch/pytorch/blob/main/LICENSE
+- Transformers: see https://github.com/huggingface/transformers/blob/main/LICENSE
+- Streamlit: see https://github.com/streamlit/streamlit/blob/develop/LICENSE
+- Pillow: see https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+Review all third-party licenses and model terms before redistribution or commercial deployment.
