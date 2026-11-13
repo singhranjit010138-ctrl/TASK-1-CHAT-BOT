@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="burgundy">#681D3B</color>
+    <color name="night">#100A13</color>
+    <color name="rose_gold">#DCA0B9</color>
+    <string name="app_name">NOCTURNE 2.0</string>
+</resources>

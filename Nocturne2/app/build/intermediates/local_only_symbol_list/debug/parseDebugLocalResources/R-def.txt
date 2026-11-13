@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+color burgundy
+color night
+color rose_gold
+drawable aiko
+drawable ic_nocturne
+drawable miyuki
+drawable reina
+raw nocturne_ambient
+string app_name
